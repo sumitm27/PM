@@ -1,0 +1,150 @@
+
+Project Requirements (From Linked Learning)
+---------------------
+
+Project Requirements are how we determine what the business needs and set our project's goals.
+
+
+
+There are 4 key questions for requirement management and Ask these at the very beginning of the project and keep asking them every time there is a change in the project.
+
+
+Requirement management questions:
+1. Who are the stakeholders
+(To identify stakeholders: ask yourself if it matters for this person to be not happy with the final result of the project ?)
+
+2. What are the needs of the stakeholders ?<-- These are the requirements which need to be clear and documented
+(The stakeholders need to explain their expectations and problems)
+
+3. How important is each requirement ?
+(Identify the most imp. requiements, then the optional ones and nice to have)
+
+4. How will new issues be dealt with ?
+(Issues: Conflicts, changes, surprises and miscommunications)
+
+
+The 10 steps for requirements management:
+1. Identify Standards : 
+(ISO 21500 Guidance on Project Management, describes management of Proj and Requirements)
+
+1a. ISO, IEC and IEEE (29148-2018 International std. for Systems and S/w engineering Life Cycle processes Requirements engineering) (MIL-STD-961E - US Miltary Proj Mgmt | Defense and Program-Unique Specifications Format and Content)
+
+1b. Requirements Discovery and Analysis Workshops
+(JAD: Joint Application Design, JRP: Joint RequirementsPlanning, JAR: Joint Application Requirements)
+
+2. Develop ELicitation Plan and get it reviewed
+(Data Gathering)
+2a. Interview with stakeholders. Elicitation plan should identify which stakeholders you plan to talk with and what questions to ask them. Facilitate the group discusssion
+
+2b. By watching people work and documenting what you observe.
+
+2c. Requirements can be elicited by studying process documentation and analyzing business data.
+(Std. operating procedures, flow charts and reports)
+
+
+
+3. Identify stakeholders
+
+List the stakeholders (Ex. Sponsor, Finance Team, IT Team, Large Customers, Small Customers)
+Understand their role.(Ex Advocate/Opponent)
+Rate their level of influence/support (Scale of 1 to 10)
+Rate their impact (Scale of 1 to 10)
+
+Stakeholder analysis helps in 3 ways:
+1. Consider all your stakeholders: Ensures that all stakeholders ar considered and how the project will affect them
+2. Develop an ELicitation plan: It can help develop and effective plan for eliciting requirements from all of those stakeholders.
+3. Create a comm plan: It can help develop a communications plan so that stakeholders can be kept engaged and informed as the project moves forward.
+
+
+4. Gather Requirements
+Ask questions like: What will determine this project's success ?
+Online surveys 
+
+4.a Capture the exact words, to avoid biasing
+4.b Ask followup questions till its clear
+4.c Take and summarize notes
+4.d Be ready for changes
+
+
+5. Analyze Requirements
+Document the attributes
+10 Attributes:
+- Absolute Reference (This is the identification no. for the requirement. Assigning a no. makes it easier to track requirements over time even if the name or the description changes)
+- Complexity (is the level of difficulty for addressing the requirement, rate it as easy,med,hard or on a scale of 1 to 10, or in terms of no. of hours required)
+- Risk (Level of uncertainity)
+- Author (Who elicited the requirement)
+- Source (Where did the  info about the requirement come from)
+- Ownership (Person responsible for addressing the requirement)
+- Stability (Status of requirement. Does it need modification or is it well defined ?)
+- Urgency (Does the requirement need to be addressed right away or is it something that can wait)
+- Priority (Level of importance, in relation to the entire project. Necessary/nicetohave/desired)
+- State (Status of requirement approval)
+
+
+6. Prioritize requirements
+- look for potential conflicts
+- ensure all requirements are unique
+- review requirement complexities
+
+Level of importance or requirements:
+- Necessary
+- OPtional
+
+Rank importance on a scale of 1 to 10.
+May require voting for prioritization.
+Document the requirement priotities.
+Helps in identifying in-scope items and the resources required to achieve the project goals.
+
+
+7. Create Use Cases
+It tells the story how the solution shoud work once complete. It provides a step by step explaination of a process and what everyone involved needs to do along the way. A single use case couldnprovide the context to support many diff requirements.Use cases enhances requirements by providing the context to help everyone understand a process.
+
+Ters in use case:
+Actors- People and systems included in a use case
+Actions or Events - Steps in completing a use case
+
+Use a SwimLane diagram (its like a flowchart) which shows which actors need to do complete which step.
+Or use Unified Modelling Language (UML)
+
+
+
+8. Document Requirements
+(Scope document)
+Requirement report has:
+- Executive Summary
+- Background Info, to explain why th eproj is imp for the business
+- Stakeholder list
+
+_ section to discuss the : Project Goals, Scope (in and out scope item's descriptions), Risks, Interdependencies
+
+The key to documenting the project requirements is to describe what you want the solution to do, without explaining how to do it. 
+
+Three things for writing requirements:
+- Requirements should be Clear amd Specific
+- Requirements should be Thoroughly detailed 
+- Requirements should be Testable, to check if the requirement is met when the project is complete
+
+
+Version control process for requirements should be there.
+
+
+
+
+9. Approve Requirements
+By getting the requirements approved, then we can ceate a plan and start allocating resources.
+Two steps for spproval:
+A. Stakeholder Review: Give the stakeholders a chance to review our docs to ensure that their requirements were captured accurately.
+B. Management Approval: To lockdown the requirements and move forward
+
+Deliver final report once the stakeholder review is done.
+
+
+
+10. Manage change requirements
+Approved requirements can still change. TRack projects with a versioning process.
+10.a Develop a process to submit change requests. (Change Denied/Approved should be communicated)
+10.b Number each version of change request (and a change log)
+10.c Always work from most current version
+
+
+

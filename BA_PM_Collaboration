@@ -1,0 +1,98 @@
+REasons for proj failure:
+-lack of stakeholder and sponsor involvement and engagement
+- changing priorities
+- changing requirements
+
+
+changing risks
+
+
+
+cost, schedule and quality : Triple constraint of a project
+(and resources)
+
+
+PM - responsible for delivering the work of the project (Budget and schedule) (forcus is project)
+
+BA - ensures the deliverables are valuable and meets the needs of the business and customers (quality and needs) (focus is product) (ensures org is working on right stuff at the right time)
+- shows the scope, context and env. of the product
+- shows how decisions and requirements will be tracked and approved
+
+
+project - temporary initiative to create a product
+product - delivers value as a result of the project
+
+
+Overlapping roles of BA nd PM:
+- scoping and planning
+- Communications
+- STakeholer relationships and management
+- Risk management
+- STakeholder management (roles of each stakeholder and expectations, stress for the stakeholder due to the project)
+- Stakeholder's influence and their influence on others
+
+
+- Defining the problem or opportunity statement
+- Defining the value proposition for the impacted stakeholder gps and customers 
+- Determine measurable goaks and objectives to chart the course and keep the scope tied and alighned to measurable outcomes.
+- Define missing capabilities to meet the goals 
+- Look at the feasibility of the approach (people, cost, schedule etc.)
+- Prioritize the items in a portfolios
+
+Scope considerations:
+-------------------
+- Proj scope (Includes the work to be done and resources to do it)
+- Product scope (considers what the project builds)
+- Functional scope (for BA, for other scope areas needed by the PM)
+- Technical scope (technologies impacted)
+- Org. scope (for PM and BA to idenyify impact on the org and users in the org)
+
+scoping checklist 
+Scope Creep 
+planning and replanning
+
+Estimating and Planning (by PM and BA):
+- Planning what the product is 
+- Understand what outcomes are expected and for whom (backlog, iterations, upcoming items)
+- Identify high priority items
+- need for new stakeholders
+- requirements plan changes
+- complexities and risks to deliver intended value
+- status reporting
+- approval of requirements and sign-offs
+- identify right focus areas and features
+- collaborate with devs and QAs for their queries and show them the bigger pic
+- provide env. of trust, answer the what and why
+- budget and deadlines
+- transition requirements for moving from old to new system
+- change readiness and impact communication
+- go and no-go decision
+- bring key messages to stakeholders and user gps impacted by the project
+- inspire engagement
+- timelines
+- share learning
+- transparency in work, priority and collaboration pt.s
+- mitigate risks
+- assumptions
+- stakeholder collaboration
+
+
+Risks seen by the BA:
+- stakeholder involvement
+- risk of building the wrong thing
+- risk to schedule
+- scope creep (sometimes its good too)
+
+Proj risks:
+Inaadequate requirements
+stakeholder involvement
+
+Scope Management Collaboration:
+- Identify the changes 
+- Discuss their feasbility
+- Discuss outcome the project needs
+- Discuss the impact to the quality, scope, budget and scedule
+- Bring options for decision makers
+- Change log and decision log to track the changes and decisions
+- Change intake checklist to gain needed info to develop the options
+- ** Create the tracibility matrix to determne which requirements tie to which outcomes, teams, designs and tests**
